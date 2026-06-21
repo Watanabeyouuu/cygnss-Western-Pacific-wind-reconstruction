@@ -52,7 +52,6 @@ CCMP for training, CYGNSS as the constraint, ERA5 / IBTrACS / SAR for evaluation
 - CYGNSS L2 SWSP v1.2: https://podaac.jpl.nasa.gov/dataset/CYGNSS_NOAA_L2_SWSP_25KM_V1.2
 - ERA5: https://cds.climate.copernicus.eu/
 - IBTrACS: https://www.ncei.noaa.gov/products/international-best-track-archive
-- SAR winds (NOAA STAR): https://www.star.nesdis.noaa.gov/socd/mecb/sar/index.php
 
 ## Requirements
 
