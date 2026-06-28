@@ -2,8 +2,7 @@
 
 Code for the paper
 
-**Score-Based Data Assimilation of 10-m Sea Surface Winds in the Western North
-Pacific: From Routine Conditions to Tropical Cyclones**
+**Diffusion-Based Reconstruction of 10-m Sea Surface Winds in the Western North Pacific: From Routine Conditions to Tropical Cyclones**
 
 We reconstruct gridded 10-m sea surface winds over the western North Pacific by
 assimilating sparse CYGNSS observations into a score-based diffusion prior, and
